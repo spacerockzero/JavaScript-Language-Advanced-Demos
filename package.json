@@ -1,0 +1,22 @@
+{
+  "name": "javascript-language-advanced-demos",
+  "version": "1.0.0",
+  "description": "Completing challenges at: https://github.com/fs-webdev/skill-building-program/blob/master/badges-active/javascript/_micro_javascript-language-advanced.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacerockzero/JavaScript-Language-Advanced-Demos.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spacerockzero/JavaScript-Language-Advanced-Demos/issues"
+  },
+  "homepage": "https://github.com/spacerockzero/JavaScript-Language-Advanced-Demos#readme",
+  "devDependencies": {
+    "eslint": "^3.8.0"
+  }
+}
